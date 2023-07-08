@@ -10,5 +10,4 @@
 - Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
 
 
-![flight_management_system_UML.png](flight_management_system_UML.png)
 
